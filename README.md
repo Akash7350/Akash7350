@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Akash7350
-- 👀 I’m interested in the Cyber Secruity Field
-- 🌱 I’m currently learning Ethical Hacking
-- 💞️ I’m looking to collaborate on Project
-- 📫 How to reach me ...
 
-<!---
-Akash7350/Akash7350 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi there, I'm Akash Rathod 👋
+I am happy to welcome you to my Github profile.
+
+I have a huge passion and strong interest in ethical hacking and am on my way to becoming an aspiring penetration tester. I consider myself a lifelong learner who is always eager to acquire and master new skills.
+
+💯 Involved in the Top 4% on TryHackMe
+📣 One of the winners of the Applitools Cross Browser Testing Hackathon 2020
+📘 Recognized as an Certified In Cyber Security By (ISC)2
+💞️ I’m looking to collaborate on Project
+📫 You can find me on LinkedIn and Twitter
