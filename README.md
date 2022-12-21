@@ -8,4 +8,4 @@ I have a huge passion and strong interest in ethical hacking and am on my way to
 📣 One of the winners of the Applitools Cross Browser Testing Hackathon 2020
 📘 Recognized as an Certified In Cyber Security By (ISC)2
 💞️ I’m looking to collaborate on Project
-📫 You can find me on LinkedIn and Twitter
+📫 You can find me on LinkedIn
