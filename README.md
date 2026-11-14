@@ -12,7 +12,6 @@ I work hands-on with SASE technologies, including SWG, CASB, DLP, and ZTNA, alon
 🛡️ Focused on secure, resilient connectivity and Zero Trust principles
 🤝 Open to collaborating on cloud security and automation projects
 
-Use full URLs on separate lines so they stay visible. Copy this into your GitHub README:
 ### 🌐 Connect & Learn
 
 🎥 **YouTube — ZeroSpace Security**
